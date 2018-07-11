@@ -3,7 +3,7 @@
  */
 public class Test {
     private  String name;
-
+    private  String pwd;
     public String getName() {
         return name;
     }
